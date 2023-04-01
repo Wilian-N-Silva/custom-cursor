@@ -13,7 +13,8 @@
     border: none;
     height: $cursor-hover-size;
     width: $cursor-hover-size;
-    background-color: rgba($color-gray-0, 0.66);
+    background-color: rgba($color-gray-0, 0.25);
+
     &::before {
       content: "View";
       position: absolute;
